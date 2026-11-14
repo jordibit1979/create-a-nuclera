@@ -1,0 +1,12 @@
+name = "Create Buddycards"
+filename = "createbuddycards-1.21.1-2.0.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "00f79c59002cd2955535d04b3e970edc50c6fc3f"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1515362
+file-id = 9038269

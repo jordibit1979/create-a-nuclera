@@ -1,0 +1,12 @@
+name = "Delightful Buddycards"
+filename = "delightfulbuddycards-1.21.1-2.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cc2663a8f90b29a25c4d8e2b2cb3cc6820e4cd2b"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1534950
+file-id = 9038274

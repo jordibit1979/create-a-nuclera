@@ -1,0 +1,12 @@
+name = "New Year's Delight (A Farmer's Delight Add-on)"
+filename = "nydelight-1.21.1-2.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7bc65287ffbd5c0939374a1b9bd252b427f9b10c"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1451118
+file-id = 9551236

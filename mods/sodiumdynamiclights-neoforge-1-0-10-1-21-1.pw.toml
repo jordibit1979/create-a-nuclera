@@ -1,0 +1,12 @@
+name = "Sodium/Embeddium Dynamic Lights"
+filename = "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 551736
+file-id = 6044477

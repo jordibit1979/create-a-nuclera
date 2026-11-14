@@ -1,0 +1,12 @@
+name = "Twilight Spark's Delight(1.20/1.21/1.19/1.12)"
+filename = "twilight_spark_delight-1.21.1-1.0.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "34e60bdf4da4eec942cc1f8ff56686a921be0fbe"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1677332
+file-id = 9293964
