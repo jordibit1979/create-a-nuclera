@@ -798,11 +798,6 @@ hash = "243ee0bb7784d0db2d0df49bf5961718bee4108b41d0b6a1c8ab92845deb91f2"
 metafile = true
 
 [[files]]
-file = "mods/ribbits-1-21-1-neoforge-4-1-6.pw.toml"
-hash = "04d7fb41fcafbbb48fbffc86a98a0d2d13ff3a4079afb1b73823129df1a5c6b3"
-metafile = true
-
-[[files]]
 file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge.pw.toml"
 hash = "66c0777d90d2ee98a1727a311b5a532fc9d9e73f1d2e23739291a7d4dab26ca0"
 metafile = true
