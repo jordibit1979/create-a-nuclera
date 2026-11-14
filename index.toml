@@ -833,11 +833,6 @@ hash = "7552068738e3ded56ed25a5376a6b2bd101a2d557a651fcc5e91e66e09a42240"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options-neoforge-2-2-4-mc1-21-1.pw.toml"
-hash = "278abd05da196c9048f75695f7ff07a107e57e1a62d54138c4754ead01789d50"
-metafile = true
-
-[[files]]
 file = "mods/relics-1-21-1-0-12-11.pw.toml"
 hash = "8f2e3a8b1e919b4e90fbeeebf98d2a3ee24fc0668b1fa666f47e6197e741a282"
 metafile = true

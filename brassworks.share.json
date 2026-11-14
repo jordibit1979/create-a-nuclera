@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Nuclera",
   "author": "",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -444,7 +444,6 @@
       "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
       "mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
       "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
-      "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
       "mods/relics-1.21.1-0.12.11.jar",
       "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
