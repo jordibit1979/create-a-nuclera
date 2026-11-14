@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Nuclera",
   "author": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -250,7 +250,8 @@
       "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "mods/embeddium-1.0.15+mc1.21.1.jar",
-      "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+      "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar"
     ],
     "files": [],
     "known_mods": [
@@ -445,6 +446,7 @@
       "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
       "mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
       "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
       "mods/relics-1.21.1-0.12.11.jar",
       "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
@@ -461,6 +463,7 @@
       "mods/Sinew-1.21.1-1.5.0.jar",
       "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "mods/snifferoverhaulneoforge-1-2-4.jar",
+      "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
       "mods/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",

@@ -843,6 +843,11 @@ hash = "7552068738e3ded56ed25a5376a6b2bd101a2d557a651fcc5e91e66e09a42240"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options-neoforge-2-2-4-mc1-21-1.pw.toml"
+hash = "278abd05da196c9048f75695f7ff07a107e57e1a62d54138c4754ead01789d50"
+metafile = true
+
+[[files]]
 file = "mods/relics-1-21-1-0-12-11.pw.toml"
 hash = "8f2e3a8b1e919b4e90fbeeebf98d2a3ee24fc0668b1fa666f47e6197e741a282"
 metafile = true
@@ -906,13 +911,18 @@ hash = "c1757e07f3cb23c1c5b5ae1d065b96ad013dc74d5eddac72be5ebe726d70aa27"
 metafile = true
 
 [[files]]
+file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
+hash = "a8c458ebb9a371759c12bb2117414e21cf8c6aeeca84d2a59670476c50c4347a"
+metafile = true
+
+[[files]]
 file = "mods/sodiumdynamiclights-neoforge-1-0-10-1-21-1.pw.toml"
-hash = "98e58002354d161189cb458db37babe09c862ea040a484381ceb5b8a24f7e2cb"
+hash = "2240050c30955f6437d6723ce1d15453081abf9e6eb57abe474cc65366802b5f"
 metafile = true
 
 [[files]]
 file = "mods/sodiumoptionsapi-neoforge-1-0-10-1-21-1.pw.toml"
-hash = "a63dd7345909d40184870b971e7f148eaa6ad16426685b3244abeef3bea13c11"
+hash = "6601a7ddfa924542d59cb9fab30acb9df1f9a29d5114e726b07c66518f953783"
 metafile = true
 
 [[files]]

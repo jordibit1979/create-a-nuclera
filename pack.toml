@@ -1,12 +1,12 @@
 name = "Create A Nuclera"
 author = ""
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03b7af56262315e9d5d4bdba8becd03edb458874c483f25a98c456a0e5b933f8"
+hash = "7d48e0df8a8717e1efdd436a1c597aa40adfe044cd55bbbdd10c1c9ff51631b6"
 
 [versions]
 minecraft = "1.21.1"
