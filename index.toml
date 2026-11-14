@@ -911,11 +911,6 @@ hash = "2240050c30955f6437d6723ce1d15453081abf9e6eb57abe474cc65366802b5f"
 metafile = true
 
 [[files]]
-file = "mods/sodiumoptionsapi-neoforge-1-0-10-1-21-1.pw.toml"
-hash = "6601a7ddfa924542d59cb9fab30acb9df1f9a29d5114e726b07c66518f953783"
-metafile = true
-
-[[files]]
 file = "mods/sophisticatedbackpacks-1-21-1-3-26-21-2249.pw.toml"
 hash = "70cd2fc364047041530d20744e4cb02984637d07232d40b32fe9726a3ca155f9"
 metafile = true

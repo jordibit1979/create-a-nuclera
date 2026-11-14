@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Nuclera",
   "author": "",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -463,7 +463,6 @@
       "mods/snifferoverhaulneoforge-1-2-4.jar",
       "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-      "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
       "mods/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
       "mods/sophisticatedcore-1.21.1-1.5.35.2473.jar",
       "mods/sophisticatedstorage-1.21.1-1.6.18.2229.jar",
