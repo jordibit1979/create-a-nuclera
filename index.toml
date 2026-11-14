@@ -434,11 +434,6 @@ hash = "b0e288ab3c299914e097f6b0f53116cde7e484bbb7fbefa876a76adfc0eeff08"
 metafile = true
 
 [[files]]
-file = "mods/essential-1-5-2-neoforge-1-21-1.pw.toml"
-hash = "18bc6b5585618a9b166cc397f4f92b59a4d45cf8790a78596c5f695eae94a383"
-metafile = true
-
-[[files]]
 file = "mods/everycomp-1-21-2-11-58-neoforge.pw.toml"
 hash = "21a567f06c7a81b2bb2276c6477ce0c0df1cd4fe43d33356191d03cb734e18b6"
 metafile = true
@@ -560,11 +555,6 @@ metafile = true
 [[files]]
 file = "mods/jei-1-21-1-neoforge-19-70-0-469.pw.toml"
 hash = "79f15fcc48903c4a32de0e64c8c90c56dfcb923a586d0280e45955ad800747bb"
-metafile = true
-
-[[files]]
-file = "mods/just-in-nether-1-2-4-neoforge-1-21-1.pw.toml"
-hash = "80be7b811933f913d2ca5c49d1f9fb47da0e12df718dd22b2992ac345530d1a0"
 metafile = true
 
 [[files]]
