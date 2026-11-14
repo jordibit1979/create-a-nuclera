@@ -420,6 +420,11 @@ hash = "f4d0e257eb9e0868b77799b8df3e553000b84c367abb76c770e5b79bda07de2a"
 metafile = true
 
 [[files]]
+file = "mods/embeddium-1-0-15-mc1-21-1.pw.toml"
+hash = "866c8735d325d897c5b908b0af009673454ed1b2cf99b5cf8db98424c08a6552"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-for-mc1-21-1-2-4-12-neoforge.pw.toml"
 hash = "6fc4c4651128ec9def5a81253d66348a1adf5de69467522c5ab5f380da1bff17"
 metafile = true
@@ -496,11 +501,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
 hash = "029ecede6950032231bd83a1b60d3499399c985a2a945fb95505d36a710570a9"
-metafile = true
-
-[[files]]
-file = "mods/fieldguide-1-23-2-1-21-1-neoforge.pw.toml"
-hash = "308156a86e9b0a22dcf1b9e35708d133ce2925cf227875aaa1fbfa3dbb3d9207"
 metafile = true
 
 [[files]]
@@ -906,11 +906,6 @@ hash = "c1757e07f3cb23c1c5b5ae1d065b96ad013dc74d5eddac72be5ebe726d70aa27"
 metafile = true
 
 [[files]]
-file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
-hash = "2fc4543e3391818693edc77cb6eda4456b8b514d0b6d0dca1d94389dbe816d22"
-metafile = true
-
-[[files]]
 file = "mods/sodiumdynamiclights-neoforge-1-0-10-1-21-1.pw.toml"
 hash = "98e58002354d161189cb458db37babe09c862ea040a484381ceb5b8a24f7e2cb"
 metafile = true
@@ -992,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-neoforge-1-21-1-1-2-0.pw.toml"
 hash = "1ffa89f21fb487fabf465512868390f1089e875fe4d21a4892914ca62c2ad9e1"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge-1-21-1-4-1-0-8.pw.toml"
+hash = "0280d95724181161844038863691b723e020c49a63dc7db2ce67a1c9e20c1add"
 metafile = true
 
 [[files]]
