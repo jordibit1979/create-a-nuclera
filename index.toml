@@ -133,11 +133,6 @@ hash = "378144e9635670fa7934b31b29e982a513d9b21c7a03c6068e351bca2d7731cb"
 metafile = true
 
 [[files]]
-file = "mods/bits-n-bobs-2-3-5.pw.toml"
-hash = "99c895e8ac82c4710b493d5ecf4dff8953b6f4180867a38b58d42adf9bea21de"
-metafile = true
-
-[[files]]
 file = "mods/block-factorys-bosses-2-1-2-neo-1-21-1.pw.toml"
 hash = "388c9d6f672334953ead0a4319fe936ebcfc0d92f4646511dba15ed9ca7b9393"
 metafile = true
@@ -417,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/elysiumapi-1-21-1-2-0-1.pw.toml"
 hash = "f4d0e257eb9e0868b77799b8df3e553000b84c367abb76c770e5b79bda07de2a"
-metafile = true
-
-[[files]]
-file = "mods/embeddium-1-0-15-mc1-21-1.pw.toml"
-hash = "866c8735d325d897c5b908b0af009673454ed1b2cf99b5cf8db98424c08a6552"
 metafile = true
 
 [[files]]
